@@ -28,3 +28,15 @@ The dataset includes columns such as:
 - Tableau  
 - Power BI
 
+## Dashboard Previews
+
+### Excel Dashboard
+![Excel Dashboard](images/excel_dashboard.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](images/tableau_dashboard.png)
+
+
